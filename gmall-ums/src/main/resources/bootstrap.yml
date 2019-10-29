@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ums-service
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.0.1:8848
+        namespace: a346d02a-1a64-4404-8467-c3fb2c866c2e
